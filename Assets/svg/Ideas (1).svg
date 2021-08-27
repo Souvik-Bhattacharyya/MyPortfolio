@@ -1,0 +1,17 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Ideas">
+<circle id="Ellipse 13" cx="40" cy="40" r="40" fill="#AC2EFF"/>
+<g id="Bulb">
+<path id="Vector 5" d="M35 55L28 34C28 22 52 22 52 34L45 55H35Z" fill="white"/>
+</g>
+<path id="rec4" d="M39 15H42V23H39V15Z" fill="white"/>
+<path id="rec3" d="M25.3411 18.734L27.8571 17.1001L32.2142 23.8095L29.6982 25.4434L25.3411 18.734Z" fill="white"/>
+<path id="rec5" d="M52.3571 17L54.8731 18.6339L50.516 25.3433L47.9999 23.7094L52.3571 17Z" fill="white"/>
+<path id="rec6" d="M61.5435 27.3362L62.5424 30.1651L54.9989 32.8288L54 30L61.5435 27.3362Z" fill="white"/>
+<path id="rec2" d="M17.4576 30.1649L18.4566 27.3361L26.0001 30L25.0011 32.8288L17.4576 30.1649Z" fill="white"/>
+<path id="rec1" d="M18.0994 44.038L17.2938 41.1481L25 39L25.8056 41.8898L18.0994 44.038Z" fill="white"/>
+<path id="rec7" d="M54.1636 41.881L55 39L62.6828 41.2304L61.8464 44.1115L54.1636 41.881Z" fill="white"/>
+<rect id="Bottom1" x="35" y="57" width="10" height="4" fill="white"/>
+<rect id="Buttom2" x="35" y="63" width="10" height="4" fill="white"/>
+</g>
+</svg>
