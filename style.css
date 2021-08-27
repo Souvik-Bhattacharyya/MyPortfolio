@@ -463,3 +463,35 @@ body {
         transform: rotateZ(0deg);
     }
 }
+
+.card-sec #cards #card-4:hover svg #message #group #VcChat{
+    animation: scaleVc 2s ease;
+}
+
+@keyframes scaleVc{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+.card-sec #cards #card-4:hover svg #message #group #VcChat2{
+    animation: scaleVc2 2s ease;
+}
+
+@keyframes scaleVc2{
+    0%{
+        transform: rotateZ(0deg);
+    }
+    50%{
+        transform: rotateZ(5deg);
+    }
+    100%{
+        transform: rotateZ(0deg);
+    }
+}
