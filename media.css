@@ -1,0 +1,89 @@
+@media all and (max-width: 300px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@media all and (max-width: 500px) {
+  .testim .arrow {
+    font-size: 1.5em;
+  }
+  .testim .cont .contents p {
+    line-height: 25px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .right-sec{
+    display: none;
+  }
+  .left-sec{
+    width: 100% !important;
+  }
+  #about{
+    height: 100vh;
+    width: 100vw;
+  }
+  #about .about-img{
+    display: none;
+  }
+  #about .about-content{
+    margin-left: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 100%;
+  }
+}
+
+
+@media screen and (max-width: 1024px) {
+  .hero-img {
+    left: -30%;
+    width: 341px;
+    height: 470px;
+    position: absolute;
+    top: 30%;
+  }
+  .hero-name {
+    font-size: 42px;
+  }
+  .hero-name span {
+    font-size: 30px;
+  }
+  .left-sec::before {
+    bottom: -1px;
+  }
+  .hero-hello {
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .hero-bio {
+    font-size: 14px;
+  }
+  .card-sec #cards {
+    justify-content: center;
+  }
+  .card-sec #cards .card {
+    width: 200px;
+    height: 350px;
+  }
+  .card-sec #cards .card .icon {
+    width: 60px;
+    height: 60px;
+  }
+  .card-sec #cards .card .icon2 {
+    width: 100px;
+    height: 90px;
+  }
+  .card-sec #cards .card .icon {
+    width: 70px;
+    height: 70px;
+  }
+  .project-sec {
+    padding: 0 100px;
+  }
+  #contact .left .icons{
+    left: 30%;
+  }
+}
